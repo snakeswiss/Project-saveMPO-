@@ -6,7 +6,7 @@ With "PPSSPP infra build" to use PrimaryDNS in PPSSPP.ini
 
 You can download it there: https://www.mediafire.com/file/r5ir0k682pt9a78/PPSSPP_1.13.1-18+infra_win.rar/file
 
-First im using wireshark (not master version because filters doesn't work) with the game on "localhost" to found and trigger informations from client to -> server
+First im using wireshark (not master version because filters doesn't work) with the game on "localhost" to found and trigger informations from client (game) to -> server
 
 Then spotted differents things that the client (game) try to do ;
 
