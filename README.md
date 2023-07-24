@@ -27,7 +27,7 @@ Therms of use page we had to accept that the client try to read on http://info.s
 ![5](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/2d0c66d1-a802-4574-90d2-b18eada313be)
 
 
-Session account (Open, create, change passwords, etc...) where the game will catch them on the URL https://mpoweb.konamionline.com/us/mpo/
+Session account (Open, create, change passwords, etc...) where the game will catch them on the URL https://mpoweb.konamionline.com/us/mpo/ (there is one page for each language like MGO1)
 
 ![6](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/ed10ed11-4715-49e8-bca3-b5d8e89c6f49)
 
