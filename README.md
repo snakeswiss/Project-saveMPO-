@@ -17,7 +17,7 @@ Then spotted differents things that the client (game) try to do ;
 
 Some screens from the official servers from 2012 taken by me age ago (sorry it's in french) 
 
-After this page, that we still actually could access today, the game check the stun server make some DNS check and result today to an UDP error (P518)
+After this page, that we still actually could access today, the game check the stun "server mpostunus.konamionline.com" make some DNS check and result today to an UDP error (P518)
 
 ![2](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/7114c37e-d47f-4d8a-9ac4-f8be32fd75ff)
 
