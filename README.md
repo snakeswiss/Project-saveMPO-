@@ -18,24 +18,37 @@ Then spotted differents things that the client (game) try to do ;
 Some screens from the official servers (sorry it's in french) 
 
 After this page that we still actually could access the game check the stun server make some DNS check and result today to an UDP error (P518)
+
 ![2](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/7114c37e-d47f-4d8a-9ac4-f8be32fd75ff)
 
+
 Therms of use page we had to accept that the client try to read on http://info.service.konamionline.com/VP029-U1/info/
+
 ![5](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/2d0c66d1-a802-4574-90d2-b18eada313be)
 
+
 Session account (Open, create, change passwords, etc...) where the game will catch them on the URL https://mpoweb.konamionline.com/us/mpo/
+
 ![6](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/ed10ed11-4715-49e8-bca3-b5d8e89c6f49)
 
+
 Then the game search about the "gate" i explained upside 
+
 ![11](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/3fafe8fb-9918-4701-8c7d-781e1dabcb48)
 
+
 and after choose a Lobby server there we are : 
+
 ![15](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/dc6f715c-49c3-41e0-8b76-704f4b126fef)
 With different pages like join, create host, ranking etc...
 
+
 Ranking was like that : 
+
 ![16](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/285059a3-b85f-4c1a-9cf1-bcb2c0022a21)
 
+
 Then you could select one player to see the personal ranking page :
+
 ![17](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/967c9898-38c7-4a3e-ac41-f67d84563be4)
 ![18](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/6b71f085-b02e-4bb6-8a2c-03ebc7c69edc)
