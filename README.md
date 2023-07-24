@@ -6,15 +6,15 @@ With "PPSSPP infra build" to use PrimaryDNS in PPSSPP.ini
 
 You can download it there: https://www.mediafire.com/file/r5ir0k682pt9a78/PPSSPP_1.13.1-18+infra_win.rar/file
 
-First Im using wireshark (not master version because filters doesn't work) with the game on "localhost" to find and trigger informations from client (game) to -> server
+First I'm using wireshark (not the master version because filters doesn't work) with the game on "localhost" to find and trigger informations from client (game) to -> server
 
-Then I spotted differents things that the client (game) tried to do via the debugger in order ;
+Then I spotted differents thing that the client (game) tried to do via the debugger in the following order ;
 
-1. game tried to make several DNS check with the previous stun Server : mpostunus.konamionline.com (doesn't exist since May 2012)
-2. Then tried to find the page with "terms of use" that you had to accept at : http://info.service.konamionline.com/VP029-U1/info/ (doesn't exist since May 2012)
-3. It will tried to connect to "HTTPS" to find accounts, user names, password, games settings, etc.. at : https://mpoweb.konamionline.com/us/mpo/ (doesn't exist since May 2012) (Need to affiliate it to the IP of actual server and rewrite the "HTTP" URL via cheats that are already in the PPSSPP infra build above and redirected to http://savemgo.com/us/mpo/)
+1. Game tried to make several DNS checks with the previous stun server : mpostunus.konamionline.com (doesn't exist since May 2012)
+2. Then it tried to find the "terms of use" page that you had to accept at : http://info.service.konamionline.com/VP029-U1/info/ (doesn't exist since May 2012)
+3. It will try to connect to "HTTPS" to find accounts, user names, password, games settings, etc.. at : https://mpoweb.konamionline.com/us/mpo/ (doesn't exist since May 2012) (We need to affiliate it to the IP of actual server and rewrite the "HTTP" URL via cheats that are already in the PPSSPP infra build above and redirect it to http://savemgo.com/us/mpo/)
 5. Then it will set you up to a "Server Lobby" on NA US version we have "gate02", Jap it's "gate01", EU is "gate03" at : mpogate02.konamionline.com (doesn't exist since May 2012)
-6. Normally after all of these steps, game/client will be connected to the server, certainly we are gonna need to do more with other pages after that (Ranking, join host, create host, etc...)
+6. Normally after all of these steps, game/client will be connected to the server, certainly we'll need to do more with other pages after that (Ranking, join host, create host, etc...)
 
 Some screens from the official servers from 2012 shot by me ages ago (sorry it's in french) 
 
