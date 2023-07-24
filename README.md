@@ -11,9 +11,9 @@ Then spotted differents things that the client (game) try to do ;
 
 1. game try to make several DNS check with the previous stun Server : mpostunus.konamionline.com (doesn't exist since May 2012)
 2. Then try to found the page with "terms of use" that you had to accept at : http://info.service.konamionline.com/VP029-U1/info/ (doesn't exist since May 2012)
-3. It will try to connect to "HTTPS" to found accounts, user names, password, games settings, etc.. at : https://mpoweb.konamionline.com/us/mpo/ (doesn't exist since May 2012) (Maybe need to affiliate to the ip of actual server then redirect the "HTTP" URL via cheat that is in the PPSSPP infra build above)
-4. Then it will set you up to a "Server Lobby" on NA US version we have "gate02", Jap it's "gate01", EU is "gate03" at : mpogate02.konamionline.com (doesn't exist since May 2012)
-5. Normally after all of that game/client is connected to server, maybe gonna need to do more with other pages (Ranking, join host, create host, etc...)
+3. It will try to connect to "HTTPS" to found accounts, user names, password, games settings, etc.. at : https://mpoweb.konamionline.com/us/mpo/ (doesn't exist since May 2012) (Maybe need to affiliate to the ip of actual server then redirect the "HTTP" URL via cheat that are already in the PPSSPP infra build above)
+5. Then it will set you up to a "Server Lobby" on NA US version we have "gate02", Jap it's "gate01", EU is "gate03" at : mpogate02.konamionline.com (doesn't exist since May 2012)
+6. Normally after all of that game/client is connected to server, maybe gonna need to do more with other pages (Ranking, join host, create host, etc...)
 
 Some screens from the official servers (sorry it's in french) 
 
