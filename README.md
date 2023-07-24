@@ -8,7 +8,7 @@ You can download it there: https://www.mediafire.com/file/r5ir0k682pt9a78/PPSSPP
 
 First im using wireshark (not master version because filters doesn't work) with the game on "localhost" to found and trigger informations from client (game) to -> server
 
-Then spotted differents things that the client (game) try to do ;
+Then spotted differents things that the client (game) try to do via the debugger ;
 
 1. game try to make several DNS check with the previous stun Server : mpostunus.konamionline.com (doesn't exist since May 2012)
 2. Then try to found the page with "terms of use" that you had to accept at : http://info.service.konamionline.com/VP029-U1/info/ (doesn't exist since May 2012)
