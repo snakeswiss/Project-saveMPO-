@@ -23,7 +23,7 @@ This page, which is still accessible today, leads to a stun server check "mpostu
 ![2](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/14ae83c1-cfeb-4bc0-8f7a-938f7443028d)
 
 
-Therms of use page that the client tries to read on http://info.service.konamionline.com/VP029-U1/info/ (there is one page for each language like MGO1)
+Terms of use page that the client tries to read on http://info.service.konamionline.com/VP029-U1/info/ (there is one page for each language like MGO1)
 
 ![5](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/77cf5b69-5e1b-4219-9899-090ab8b12dbc)
 
