@@ -15,7 +15,7 @@ Then spotted differents things that the client (game) try to do ;
 5. Then it will set you up to a "Server Lobby" on NA US version we have "gate02", Jap it's "gate01", EU is "gate03" at : mpogate02.konamionline.com (doesn't exist since May 2012)
 6. Normally after all of that game/client is connected to server, maybe gonna need to do more with other pages (Ranking, join host, create host, etc...)
 
-Some screens from the official servers (sorry it's in french) 
+Some screens from the official servers from 2012 taken by me age ago (sorry it's in french) 
 
 After this page that we still actually could access the game check the stun server make some DNS check and result today to an UDP error (P518)
 
