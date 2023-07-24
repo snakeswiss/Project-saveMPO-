@@ -40,6 +40,7 @@ Then the game search about the "gate" i explained upside
 and after choose a Lobby server there we are : 
 
 ![15](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/dc6f715c-49c3-41e0-8b76-704f4b126fef)
+
 With different pages like join, create host, ranking etc...
 
 
