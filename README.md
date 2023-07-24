@@ -56,7 +56,7 @@ Then you could select one player to see the personal ranking page :
 ![18](https://github.com/snakeswiss/Project-saveMPO-/assets/140389050/21f019bb-b25c-4b33-9ab7-c2ba948ed086)
 
 
-Everything is strongly similar to MGO1 system Network Protocol that I use as a reference made by Zi (thank you very much for that !), since i'ts the same "architecture" except for DNAS check part that doesn't seems to exist in MPO.
+Everything is strongly similar to MGO1 system Network Protocol that I use as a reference made by Zi (thank you very much for that !), since it's the same "architecture" except for DNAS check part that doesn't seems to exist in MPO.
 
 "Digital Network Authentication System : DNAS was a proprietary online authentication and anti-piracy system developed by Sony Computer Entertainment Inc. (SCEI) for use with PlayStation 2 and PlayStation Portable (PSP) games. It was designed to protect against unauthorized gameplay, cheating, and hacking in online multiplayer games. DNAS worked by verifying the legitimacy of the game disc and user account before allowing access to online features."
 
